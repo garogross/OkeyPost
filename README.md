@@ -1,1 +1,1 @@
-[Figma LINK](https://www.figma.com/file/GMaEAotktXJUBHOOWCuUyf/OKP-(Copy)-(Copy)?node-id=42%3A207)
+[Figma LINK](https://www.figma.com/file/GMaEAotktXJUBHOOWCuUyf/OKP-(Copy)-(Copy)?node-id=42%31A207)
