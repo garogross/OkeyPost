@@ -197,6 +197,5 @@ maybeBug/
 localhost.iml
 *.iml
 .idea/
-log.txt
 *.zip
-kma.sqlite3
+dist/
